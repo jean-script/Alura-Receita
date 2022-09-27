@@ -1,0 +1,23 @@
+**************************************
+	comandos django 
+**************************************
+
+Criando um projeto: 
+
+	django-admin startproject <nome_projeto> . #o ponto server para fazer o projeto na pasta base.
+
+Criando um app:
+
+	python manage.py startapp <nome_app> 
+
+Subindo servidor: 
+
+	python manage.py runserver 
+
+Arquivos estaticos: 
+Gerenciando arquivos estaticos django
+	 python manage.py collectstatic
+
+
+
+"Não confunda jamais conhecimento com sabedoria. Um o ajuda a ganhar a vida; o outro, a construir uma vida." (Sandra Carey)
